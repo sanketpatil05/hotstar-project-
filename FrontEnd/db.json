@@ -1,0 +1,80 @@
+{
+ 
+ "trandingMovies":[
+   {
+     "id": 1,
+     "title" : "83",
+     "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+     "time":"2hr 14min",
+     "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+     "language" :"hindi English tamil kannad",
+     "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+   },
+   {
+    "id": 2,
+    "title" : "83",
+    "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+    "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+    "time":"2hr 14min",
+    "language" :"hindi English tamil kannad",
+    "discription":" The movie details the journey...."
+  },
+  {
+    "id": 3,
+    "title" : "83",
+    "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+    "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+    "time":"2hr 14min",
+    "language" :"hindi English tamil kannad",
+    "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+  },
+  {
+    "id": 4,
+    "title" : "83",
+    "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+    "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+    "time":"2hr 14min",
+    "language" :"hindi English tamil kannad",
+    "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+  },
+  {
+   "id": 5,
+   "title" : "83",
+   "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+   "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+   "time":"2hr 14min",
+   "language" :"hindi English tamil kannad",
+   "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+ },
+ {
+   "id": 6,
+   "title" : "83",
+   "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+   "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+   "time":"2hr 14min",
+   "language" :"hindi English tamil kannad",
+   "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+ }
+ ,
+ {
+   "id": 7,
+   "title" : "83",
+   "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+   "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+   "time":"2hr 14min",
+   "language" :"hindi English tamil kannad",
+   "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+ },
+ {
+  "id": 8,
+  "title" : "83",
+  "poster2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5603/1145603-h-3038c1e973f7",
+  "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/610/1160610-v-7ea34ec67657",
+  "time":"2hr 14min",
+  "language" :"hindi English tamil kannad",
+  "discription":" The movie details the journey of the victory of the Indian cricket team, led by Kapil Dev, in the 1983 World Cup."
+}
+ ]
+
+
+}
