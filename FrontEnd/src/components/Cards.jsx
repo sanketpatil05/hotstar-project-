@@ -28,7 +28,7 @@ const Div = styled.div`
     left: 50%;
     border-radius: 10px;
     padding: 0 10px;
-    width: 90%;
+    width: 85%;
     height: 100%;
     color: #c8e2f8;
     font-family: Arial, Helvetica, sans-serif;
@@ -69,13 +69,15 @@ const Div = styled.div`
   }
 `;
 
-export const Card = ({ item }) => {
-  return (
+export const Card = ({ item,section}) => {
+  
+  return ( 
+    
     <Div>
-      <Link to={`/Movies/${item.id}`}>
-        <img src={item.poster} alt="" />
+      <Link to={`/Movies/${item._id}`}>
+        <img src={item.poster} alt=""  style = {{ borderRadius : "10px",width : "90%" , height : "35vh",}}/>
         <div>
-          <Typography variant="h6" mt={12} mx={{backgroundColor:"transparent"  }} mb={-2}>
+          <Typography variant="h6" mt={8} mx={{backgroundColor:"transparent"  }} mb={-2}>
             {item.title}
           </Typography>
           <p>{item.time}</p>

@@ -3,11 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter } from "react-router-dom"
+import {BrowserRouter} from "react-router-dom"
+<script src="https://kit.fontawesome.com/17785f9837.js" crossorigin="anonymous"></script>
 
 ReactDOM.render(
   <React.StrictMode>
-  <BrowserRouter>
+    <BrowserRouter>
     <App />
     </BrowserRouter>
   </React.StrictMode>,
