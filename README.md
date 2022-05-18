@@ -4,8 +4,8 @@
 
 
 
-# Puma-Website-Clone Project
-<p>A web application to buy all Puma products</p>
+# HotStar-Clone Project
+<p>Hotstar has been discontinued in the US, but you can enjoy LIVE cricket, your favorite Indian entertainment, & more with The Disney Bundle (Disney+, Hulu, and ...</p>
 <img src="https://aashishkumar321.netlify.app/images/projects/puma.gif" width="90%" height="300" align="center"/>
 <h3>Build myntra website clone which is an Ecommerce website Redefine Your Style Statement With Trendy Apparel, Footwear, Accessories & More. </h3>
 
