@@ -11,17 +11,23 @@
 
 
 # features:
-<p>Product page</p>
+<p>Atlas database</p>
+<p>mongoDB storage</p>
 <p>User Authentication</p>
+<p>Landing Page</p>
+<p>Card Page</p>
 <p>Checkout page</p>
-<p>Product wishlist page</p>
+<p>Subscription page</p>
+
 
 # Techologies Used :
-
-   <p> HTML</p>
-    <p>CSS</p>
+    <p>REACT</p>
+    <p>MONGODB</p>
+    <p>NODEJS</p>
     <p>JAVASCRIPT</p>
-    <p>MEDIA QUERY</p>
+    <p>FIREBASE</p>
+    <p>HTML</p>
+    <p>CSS</p>
     <p>GIT</p>
 
 # Team Member:
