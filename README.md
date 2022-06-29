@@ -25,10 +25,13 @@
     <p>GIT</p>
 
 # Team Member:
-<p>Aashish Kumar</p>
-<p>Ritesh Yadav</p>
 <p>Sanket patil</p>
 <p>Shashi Kumar</p>
+<p>Ritesh Yadav</p>
+<p>Aashish Kumar</p>
+
+
+
 
 
 
