@@ -26,11 +26,10 @@
 
 # Team Member:
 <p>Aashish Kumar</p>
-<p>Mahesh Jangid</p>
-<p>Gourab Mishra</p>
-<p>Manjeet Singh</p>
-<p>Shashikant Patil</p>
-<p>Arbaz Hussain</p>
+<p>Ritesh Yadav</p>
+<p>Sanket patil</p>
+<p>Shashi Kumar</p>
+
 
 
 # Key learnings
